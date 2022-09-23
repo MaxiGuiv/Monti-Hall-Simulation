@@ -1,3 +1,4 @@
+#Manually putting the desired number, and being asked to switch or not.
 import random
 x = [1, 2, 3, 4, 5]
 
